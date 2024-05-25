@@ -30,9 +30,3 @@ tkn pipeline start cd-pipeline \
     -w name=pipeline-workspace,claimName=pipelinerun-pvc \
     --showlog
 ```
-
-```bash
-```
-
-```bash
-```
